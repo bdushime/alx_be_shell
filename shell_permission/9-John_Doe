@@ -1,0 +1,4 @@
+#!/bin/bash
+# Script to set permissions of the file "hello"
+
+chmod 753 hello
